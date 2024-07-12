@@ -1,0 +1,28 @@
+
+        #now {
+            color : red;
+        }
+        a {
+            text-decoration: none;
+            color : black;
+        }
+        h1 {
+            text-align: center;
+            font-size: 45px;
+            border-bottom: 1px solid gray;
+            padding: 20px;
+            margin: 0px;
+        }
+        ul {
+            border-right: 1px solid gray;
+            width : 110px;
+            margin : 0px;
+            padding-top : 30px;
+        }
+        body {
+            margin:0px;
+        }
+        #grid {
+            display: grid;
+            grid-template-columns: 200px 1fr;
+        }
